@@ -6,12 +6,12 @@
 
   <p>
     <a href="https://hikmetemregultekin.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/PORTFOLYO-HIKMETEMRE.VERCEL.APP-7928CA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/PORTFOLYO-HIKMETEMRE.VERCEL.APP-7928CA?style=for-the-badge&logo=vercel&logoColor=blue" alt= />
     </a>
     <a href="mailto:hikmetemre45@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-HIKMETEMRE45@GMAIL.COM-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/EMAIL-HIKMETEMRE45@GMAIL.COM-0078D4?style=for-the-badge&logo=gmail&logoColor=blue" alt= />
     </a>
-    <img src="https://img.shields.io/badge/MCBÜ-BÜYÜK%20VERİ%20ANALİSTLİĞİ-4B0082?style=for-the-badge" alt="MCBÜ" />
+    <img src="https://img.shields.io/badge/MCBÜ-BÜYÜK%20VERİ%20ANALİSTLİĞİ-4B0082?style=for-the-badge" alt= />
   </p>
 
 
