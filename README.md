@@ -22,15 +22,7 @@
 
   ---
 
-  <!-- ABOUT ME -->
-  <h3>About Me</h3>
-  <p>
-    I am a <b>Big Data Analytics</b> student at <b>Manisa Celal Bayar University</b>.<br>
-    I focus on uncovering patterns, forecasting trends, and building Explainable AI (XAI) models.<br>
-    Passionate about turning raw analytical outputs into interactive data stories and web solutions.
-  </p>
-  <p><b>Open to internship and data science opportunities.</b></p>
-
+  
   ---
 
   <!-- TEKNOLOJİLER -->
