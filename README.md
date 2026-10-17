@@ -1,12 +1,11 @@
-<!-- ÜST SİBER BANNER -->
+<!-- EN TEPEDE ARKA PLANLI YAZILI BANNER -->
 <p align="center">
-  <img src="./header3.jpg" width="100%" height="110" style="object-fit: cover; border-radius: 8px;" alt="Header" />
+  <img src="./header2.jpg" width="100%" height="110" style="object-fit: cover; border-radius: 8px;" alt="Hikmet Emre Gültekin" />
 </p>
 
 <div align="center">
 
-  <!-- AD SOYAD & UNVAN -->
-  <h1>Hikmet Emre Gültekin</h1>
+  <!-- UNVAN -->
   <p><b>Big Data Analytics • Machine Learning • Data Storytelling</b></p>
 
   <!-- BUTONLAR & ROZETLER -->
@@ -22,7 +21,15 @@
 
   ---
 
-  
+  <!-- ABOUT ME -->
+  <h3>About Me</h3>
+  <p>
+    I am a <b>Big Data Analytics</b> student at <b>Manisa Celal Bayar University</b>.<br>
+    I focus on uncovering patterns, forecasting trends, and building Explainable AI (XAI) models.<br>
+    Passionate about turning raw analytical outputs into interactive data stories and web solutions.
+  </p>
+  <p><b>Open to internship and data science opportunities.</b></p>
+
   ---
 
   <!-- TEKNOLOJİLER -->
