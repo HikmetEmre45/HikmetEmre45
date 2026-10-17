@@ -1,6 +1,6 @@
 <!-- EN TEPEDE ARKA PLANLI YAZILI BANNER -->
 <p align="center">
-  <img src="./header2.jpg" width="100%" height="110" style="object-fit: cover; border-radius: 8px;" alt="Hikmet Emre Gültekin" />
+  <img src="./heafer.jpg" width="100%" height="110" style="object-fit: cover; border-radius: 8px;" alt="Hikmet Emre Gültekin" />
 </p>
 
 <div align="center">
