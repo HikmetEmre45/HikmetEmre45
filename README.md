@@ -1,11 +1,15 @@
-<!-- EN TEPEDE YAZILI ARKA PLAN BANNERI -->
+<!-- ÜST SİBER BANNER -->
 <p align="center">
-  <img src="./header3.jpg" width="100%" style="border-radius: 8px;" alt="Hikmet Emre Gültekin" />
+  <img src="./header2.jpg" width="100%" height="110" style="object-fit: cover; border-radius: 8px;" alt="Header" />
 </p>
 
 <div align="center">
 
-  <!-- TIKLANABİLİR BUTONLAR & ROZETLER -->
+  <!-- AD SOYAD & UNVAN -->
+  <h1>Hikmet Emre Gültekin</h1>
+  <p><b>Big Data Analytics • Machine Learning • Data Storytelling</b></p>
+
+  <!-- BUTONLAR & ROZETLER -->
   <p>
     <a href="https://hikmetemregultekin.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/PORTFOLYO-HIKMETEMREGULTEKIN.VERCEL.APP-7928CA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
