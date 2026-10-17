@@ -1,6 +1,6 @@
-<!-- EN TEPEDE ARKA PLANLI YAZILI BANNER -->
+<!-- EN TEPEDE ARKA PLANLI & YAZILI BANNER (GARANTİ DOĞRUDAN LİNK) -->
 <p align="center">
-  <img src="./heafer.jpg" width="100%" height="110" style="object-fit: cover; border-radius: 8px;" alt="Hikmet Emre Gültekin" />
+  <img src="https://raw.githubusercontent.com/HikmetEmre45/HikmetEmre45/main/heafer.png" width="100%" style="border-radius: 8px;" alt="Hikmet Emre Gültekin" />
 </p>
 
 <div align="center">
