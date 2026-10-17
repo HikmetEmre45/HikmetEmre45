@@ -1,6 +1,6 @@
 <!-- ÜST SİBER BANNER -->
 <p align="center">
-  <img src="./header2.jpg" width="100%" height="110" style="object-fit: cover; border-radius: 8px;" alt="Header" />
+  <img src="./header3.jpg" width="100%" height="110" style="object-fit: cover; border-radius: 8px;" alt="Header" />
 </p>
 
 <div align="center">
