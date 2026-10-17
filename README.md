@@ -1,8 +1,3 @@
-<!-- EN ÜSTTEKİ TÜRK BAYRAĞI BANNERI (ARKA PLAN) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HikmetEmre45/HikmetEmre45/main/image_21.png" alt="Türk Bayrağı Banner" width="100%" style="border-radius: 12px; max-height: 220px; object-fit: cover;" />
-</p>
-
 <div align="center">
 
   <!-- BAŞLIK & ROZETLER -->
@@ -19,7 +14,6 @@
   </p>
   <p>
     <img src="https://img.shields.io/badge/MCBÜ-BÜYÜK%20VERİ%20ANALİSTLİĞİ-4B0082?style=for-the-badge" alt="MCBÜ" />
-    <img src="https://img.shields.io/badge/TÜRKİYE-🇹🇷-E00010?style=for-the-badge" alt="Türkiye" />
   </p>
 
   ---
