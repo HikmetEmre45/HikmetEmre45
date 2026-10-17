@@ -1,8 +1,11 @@
 <p align="center">
-  <img src="./header.jpg" width="100%" alt="Hikmet Emre Header" />
+  <img src="./header.jpg" width="100%" height="160" style="object-fit: cover; border-radius: 8px;" alt="Banner" />
 </p>
 
 <div align="center">
+
+  <h1>Hikmet Emre Gültekin</h1>
+  <p><b>Big Data Analytics • Machine Learning • Data Storytelling</b></p>
 
   <!-- BAŞLIK & ROZETLER -->
   <h1>Hikmet Emre Gültekin</h1>
